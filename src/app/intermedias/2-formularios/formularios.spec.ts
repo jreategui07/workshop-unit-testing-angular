@@ -38,4 +38,14 @@ describe('2. Pruebas de formularios', () => {
         expect(control.valid).toBeFalsy();
     });
 
+    it('El valor de aceptoCondiciones debe ser true', () => {
+        componente.aceptarCondicionesChange(true);
+        expect(componente.aceptoCondiciones).toBeTruthy();
+    });
+
+    it('El valor de aceptoCondiciones debe ser false', () => {
+        componente.aceptarCondicionesChange(false);
+        expect(componente.aceptoCondiciones).toBeFalsy();
+    });
+
 });

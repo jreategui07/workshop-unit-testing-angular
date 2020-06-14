@@ -44,7 +44,9 @@
 
 ### **Prerequisitos**
 
-En este workshop conoceremos los conceptos básicos para trabajar el Unit Testing en Angular, y trabajaremos en la creación de pruebas unitarias desde el nivel más básico hasta crear ejemplos de complejidad media.
+Este workshop está dirigido a desarrolladores de software con un entendimiento básico de Typescript, no es necesario conocer a profundidad el framework Angular, sin embargo es aconsejable tener un conocimiento básico del mismo.
+
+Conoceremos los conceptos básicos para trabajar el Unit Testing en Angular, y trabajaremos en la creación de pruebas unitarias desde el nivel más básico hasta crear ejemplos de complejidad media.
 
 ### **Configuraciones necesarias**
 

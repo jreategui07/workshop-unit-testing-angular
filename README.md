@@ -21,7 +21,7 @@
 
 - [¿Qué son las pruebas automáticas?](1-pruebas-automaticas/file.md)
 - [¿Cuales son sus beneficios?](1-pruebas-automaticas/file.md)
-- [Cuando son necesarias?](1-pruebas-automaticas/file.md)
+- [¿Cuando son necesarias?](1-pruebas-automaticas/file.md)
 - [¿Valen la pena?](1-pruebas-automaticas/file.md)
 - [Tipos de pruebas automáticas](1-pruebas-automaticas/tipos-file.md)
 - [¿Que debo probar?](1-pruebas-automaticas/tipos-file.md)
@@ -37,7 +37,6 @@
 
 ### [**Antes de empezar**](5-antes-empezar)
 
-- [Antes de empezar](5-antes-empezar/antes-empezar.md)
 - [Estructura básica de un test unitario](5-antes-empezar/file.md)
 - [Ejecutando nuestras pruebas](5-antes-empezar/file.md)
 - [Saltar pruebas](5-antes-empezar/file.md)
@@ -47,7 +46,7 @@
 
 En este workshop conoceremos los conceptos básicos para trabajar el Unit Testing en Angular, y trabajaremos en la creación de pruebas unitarias desde el nivel más básico hasta crear ejemplos de complejidad media.
 
-### **Configuraciones necesarias:**
+### **Configuraciones necesarias**
 
 Durante el desarrollo del workshop useremos lo siguiente:
 

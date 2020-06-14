@@ -1,1 +1,0 @@
-# Configuraciones necesarias

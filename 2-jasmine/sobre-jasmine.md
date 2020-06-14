@@ -1,1 +1,1 @@
-# ¿Qué es Jasmine?
+# Sobre Jasmine

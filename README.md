@@ -10,11 +10,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### [**Requerimientos**](0-requerimientos)
+### [**Configuraciones necesarias**](0-configuraciones-necesarias/0-configuraciones-necesarias.md)
 
 - NodeJS
 - Angular
 - Visual Studio Code
+- Visual Studio Code Extensions
 - Git
 
 ### [**Pruebas automáticas**](1-pruebas-automaticas)
@@ -55,6 +56,7 @@ Durante el desarrollo del workshop useremos lo siguiente:
 - NodeJS
 - Angular
 - Visual Studio Code
+- Visual Studio Code Extensions
 - Git
 
 ## Licencia

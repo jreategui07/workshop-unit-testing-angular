@@ -28,25 +28,11 @@ describe('3. Pruebas de spias', () => {
   */
 
   it('obtenerUsuarios[returnValue]: Se deben obtener los usuarios', () => {
-    const observable = new Observable<IUsuarios[]>(subscriber => {
-      subscriber.next(fakeResp);
-    });
-    spyOn(servicio, 'getUsuarios').and.returnValue(
-      observable
-    );
-    componente.obtenerUsuarios();
-    expect(componente.usuarios.length).toBeGreaterThan(0);
+    
   });
 
   it('obtenerUsuarios[returnValue]: Se debe obtener un mensaje de error si el servicio falla', () => {
-    const observable = new Observable<IUsuarios[]>(subscriber => {
-      throw (fakeError);
-    });
-    spyOn(servicio, 'getUsuarios').and.returnValue(
-      observable
-    );
-    componente.obtenerUsuarios();
-    expect(componente.error).toBe(fakeError);
+    
   });
 
   /*
@@ -58,25 +44,11 @@ describe('3. Pruebas de spias', () => {
   */
 
   it('obtenerUsuarios[callFake]: Se deben obtener los usuarios', () => {
-    const observable = new Observable<IUsuarios[]>(subscriber => {
-      subscriber.next(fakeResp);
-    });
-    spyOn(servicio, 'getUsuarios').and.callFake(() => {
-      return observable;
-    });
-    componente.obtenerUsuarios();
-    expect(componente.usuarios.length).toBeGreaterThan(0);
+    
   });
 
   it('obtenerUsuarios[callFake]:  Se debe obtener un mensaje de error si el servicio falla', () => {
-    const observable = new Observable<IUsuarios[]>(subscriber => {
-      throw (fakeError);
-    });
-    spyOn(servicio, 'getUsuarios').and.callFake(() => {
-      return observable;
-    });
-    componente.obtenerUsuarios();
-    expect(componente.error).toBe(fakeError);
+    
   });
 
   /*

@@ -22,13 +22,11 @@ describe('5. Pruebas de clases', () => {
     });
 
     it('aumentar: Debe aumentar en uno el contador', () => {
-        contador.aumentar();
-        expect(contador.contado).toBe(51);
+        
     });
 
     it('decrementar: Debe decrementar en uno el contador', () => {
-        contador.decrementar();
-        expect(contador.contado).toBe(49);
+        
     });
 
 });

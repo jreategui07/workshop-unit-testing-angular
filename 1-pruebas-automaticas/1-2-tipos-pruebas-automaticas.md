@@ -6,7 +6,7 @@ Es importante que sepas diferenciar estos tres tipos de pruebas automáticas:
   
 - Pruebas de integración: Las pruebas de integración consisten en probar un conjunto de nuestra aplicación, para asegurarnos que los elementos que lo conforman trabajen en armonía, por ejemplos. Un componente que trae alguna información de un servicio y la muestra en el html.
 
-- Pruebas End to end (E2E): Las pruebas End to end (o pruebas de Punta a punta), consisten en replicar el comportamiento del usuario en la aplicación, asegurando que el flujo que sigue el usuario es el que se espera, por ejemplo. El flujo para iniciar sesión, o verificar el proceso de un págo en línea
+- Pruebas End to end (E2E): Las pruebas End to end (o pruebas de Punta a punta), consisten en replicar el comportamiento del usuario en la aplicación, asegurando que el flujo que sigue el usuario es el que se espera, por ejemplo, el flujo para iniciar sesión, o verificar el proceso de un págo en línea
 
 ---
 

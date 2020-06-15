@@ -38,12 +38,9 @@
 
 - [Sobre Karma](4-karma/4-1-sobre-karma.md)
 
-### [**Antes de empezar**](5-antes-empezar)
+### [**Empecemos**](5-empecemos/empecemos.md)
 
-- [Estructura básica de un test unitario](5-antes-empezar/file.md)
-- [Ejecutando nuestras pruebas](5-antes-empezar/file.md)
-- [Saltar pruebas](5-antes-empezar/file.md)
-- [Covertura de código](5-antes-empezar/file.md)
+- [Enpecemos](5-empecemos/empecemos.md)
 
 ### **Prerequisitos**
 

@@ -1,8 +1,8 @@
-import { Acumulador } from './clases';
+import { Contador } from './clases';
 
 describe('5. Pruebas de clases', () => {
 
-    let acumulador: Acumulador;
+    let contador: Contador;
 
     beforeAll(() => {
         // antes de todas las pruebas
@@ -10,7 +10,7 @@ describe('5. Pruebas de clases', () => {
 
     beforeEach(() => {
         // antes de cada prueba
-        acumulador = new Acumulador();
+        contador = new Contador();
     });
 
     afterAll(() => {
@@ -21,14 +21,14 @@ describe('5. Pruebas de clases', () => {
         // después de cada prueba
     });
 
-    it('aumentar: Debe aumentar en uno el acumulador', () => {
-        acumulador.aumentar();
-        expect(acumulador.acumulado).toBe(51);
+    it('aumentar: Debe aumentar en uno el contador', () => {
+        contador.aumentar();
+        expect(contador.contado).toBe(51);
     });
 
-    it('decrementar: Debe decrementar en uno el acumulador', () => {
-        acumulador.decrementar();
-        expect(acumulador.acumulado).toBe(49);
+    it('decrementar: Debe decrementar en uno el contador', () => {
+        contador.decrementar();
+        expect(contador.contado).toBe(49);
     });
 
 });

@@ -18,16 +18,19 @@
 - Visual Studio Code Extensions
 - Git
 
-### [**Pruebas automáticas**](1-pruebas-automaticas)
+### [**Pruebas automáticas**](1-pruebas-automaticas/1-1-pruebas-automaticas.md)
 
-- [¿Qué son las pruebas automáticas?](1-pruebas-automaticas/file.md)
-- [¿Cuales son sus beneficios?](1-pruebas-automaticas/file.md)
-- [¿Cuando son necesarias?](1-pruebas-automaticas/file.md)
-- [¿Valen la pena?](1-pruebas-automaticas/file.md)
-- [Tipos de pruebas automáticas](1-pruebas-automaticas/tipos-file.md)
-- [¿Que debo probar?](1-pruebas-automaticas/tipos-file.md)
+- [¿Qué son las pruebas automáticas?](1-pruebas-automaticas/1-1-pruebas-automaticas.md)
+- [Tipos de pruebas automáticas](1-pruebas-automaticas/1-2-tipos-pruebas-automaticas.md)
+- [¿Que debo probar?](1-pruebas-automaticas/1-3-que-debo-probar.md)
+- [¿Cuales son sus beneficios?](1-pruebas-automaticas/1-4-ventajas-pruebas-unitarias.md)
 
-### [**Jasmine Framework**](2-jasmine)
+### [**Pruebas Unitarias**](2-jasmine)
+
+- [Sobre Jasmine](2-pruebas-unitarias/2-1-ventajas-pruebas-unitarias.md)
+- [Matchers](2-pruebas-unitarias/2-2-desventajas-pruebas-unitarias.md)
+
+### [**Jasmine Framework**](3-jasmine)
 
 - [Sobre Jasmine](2-jasmine/sobre-jasmine.md)
 - [Matchers](2-jasmine/file.md)

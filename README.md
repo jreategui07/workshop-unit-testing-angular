@@ -22,7 +22,7 @@
 
 - [¿Qué son las pruebas automáticas?](1-pruebas-automaticas/1-1-pruebas-automaticas.md)
 - [Tipos de pruebas automáticas](1-pruebas-automaticas/1-2-tipos-pruebas-automaticas.md)
-- [¿Que debo probar?](1-pruebas-automaticas/1-3-que-debo-probar.md)
+- [¿Qué debo probar?](1-pruebas-automaticas/1-3-que-debo-probar.md)
 - [¿Cuales son sus beneficios?](1-pruebas-automaticas/1-4-ventajas-pruebas-unitarias.md)
 
 ### [**Pruebas Unitarias**](2-pruebas-unitarias/2-1-ventajas-pruebas-unitarias.md)
@@ -40,7 +40,7 @@
 
 ### [**Empecemos**](5-empecemos/empecemos.md)
 
-- [Enpecemos](5-empecemos/empecemos.md)
+- [Empecemos](5-empecemos/empecemos.md)
 
 ### **Prerequisitos**
 
@@ -50,7 +50,7 @@ Conoceremos los conceptos básicos para trabajar el Unit Testing en Angular, y t
 
 ### **Configuraciones necesarias**
 
-Durante el desarrollo del workshop useremos lo siguiente:
+Durante el desarrollo del workshop usaremos lo siguiente:
 
 - NodeJS
 - Angular

@@ -45,4 +45,4 @@ code --install-extension mikael.angular-beastcode
 
 ---
 
-Sigamos con [Pruebas automaticas](../1-pruebas-automaticas/pruebas-automaticas.md)
+Sigamos con [Pruebas automaticas](../1-pruebas-automaticas/1-1-pruebas-automaticas.md)

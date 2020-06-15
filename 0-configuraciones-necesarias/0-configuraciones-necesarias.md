@@ -1,6 +1,6 @@
 # Configuraciones necesarias
 
-Deberás tener instaladas las siguientes dependencias para poder seguir el workshop, usaremos Visual Studio Code, no obstate sientete libre de usar el IDE de tu preferencia.
+Deberás tener instaladas las siguientes dependencias para poder seguir el workshop, usaremos Visual Studio Code, no obstante puedes sentirte libre de usar el IDE de tu preferencia.
 
 1. NodeJS
 2. Angular

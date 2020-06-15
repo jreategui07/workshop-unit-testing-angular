@@ -10,4 +10,4 @@ No todo es colo de rosa en relación a las Pruebas Unitarias, aqui nombraremos a
 
 ---
 
-Sigamos con [Jasmine](../3-jasmine/sobre-jasmine.md)
+Sigamos con [Jasmine](../3-jasmine/3-1-sobre-jasmine.md)

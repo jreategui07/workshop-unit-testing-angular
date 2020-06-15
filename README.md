@@ -25,19 +25,18 @@
 - [¿Que debo probar?](1-pruebas-automaticas/1-3-que-debo-probar.md)
 - [¿Cuales son sus beneficios?](1-pruebas-automaticas/1-4-ventajas-pruebas-unitarias.md)
 
-### [**Pruebas Unitarias**](2-jasmine)
+### [**Pruebas Unitarias**](2-pruebas-unitarias/2-1-ventajas-pruebas-unitarias.md)
 
-- [Sobre Jasmine](2-pruebas-unitarias/2-1-ventajas-pruebas-unitarias.md)
-- [Matchers](2-pruebas-unitarias/2-2-desventajas-pruebas-unitarias.md)
+- [Ventajas](2-pruebas-unitarias/2-1-ventajas-pruebas-unitarias.md)
+- [Desventajas](2-pruebas-unitarias/2-2-desventajas-pruebas-unitarias.md)
 
-### [**Jasmine Framework**](3-jasmine)
+### [**Jasmine**](3-jasmine/3-1-sobre-jasmine.md)
 
-- [Sobre Jasmine](2-jasmine/sobre-jasmine.md)
-- [Matchers](2-jasmine/file.md)
+- [Sobre Jasmine](3-jasmine/3-1-sobre-jasmine.md)
 
-### [**karma**](3-karma)
+### [**karma**](4-karma/4-1-sobre-karma.md)
 
-- [Sobre Karma](3-karma/sobre-karma.md)
+- [Sobre Karma](4-karma/4-1-sobre-karma.md)
 
 ### [**Antes de empezar**](5-antes-empezar)
 

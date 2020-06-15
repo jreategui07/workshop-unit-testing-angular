@@ -24,21 +24,10 @@ export class SpiasComponent implements OnInit {
 
   obtenerUsuarios(): void {
     this.usuariosService.getUsuarios().subscribe(
-      usuarios => {
+      (usuarios: IUsuarios[]) => {
         this.usuarios = usuarios;
       },
-      error => {
-        this.error = error;
-      }
-    );
-  }
-
-  obtenerUsuariosObs(): void {
-    this.usuariosService.getUsuariosObs().subscribe(
-      usuarios => {
-        this.usuarios = usuarios;
-      },
-      error => {
+      (error: string) => {
         this.error = error;
       }
     );

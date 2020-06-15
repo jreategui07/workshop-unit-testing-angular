@@ -21,13 +21,5 @@ export class UsuariosService {
         })
     );
   }
-  getUsuariosObs() {
-    return this.http.get('___url___').pipe(
-      map(resp => {
-        const usuarios: IUsuarios[] = [];
-        return usuarios;
-      })
-    );
-  }
 
 }

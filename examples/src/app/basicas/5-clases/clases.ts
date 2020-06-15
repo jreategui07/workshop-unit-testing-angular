@@ -1,17 +1,17 @@
-export class Acumulador {
+export class Contador {
 
-    acumulado: number;
+    contado: number;
 
     constructor() {
-        this.acumulado = 50;
+        this.contado = 50;
     }
 
     aumentar(): void {
-        this.acumulado = this.acumulado + 1;
+        this.contado = this.contado + 1;
     }
 
     decrementar(): void {
-        this.acumulado = this.acumulado - 1;
+        this.contado = this.contado - 1;
     }
 
 }

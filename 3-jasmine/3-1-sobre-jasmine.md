@@ -1,5 +1,5 @@
 <p float="left">
-    <img src="../jarmine-logo.svg" alt="Workshop unit testing con Angular" width="300" />
+    <img src="../assets/logo/jasmine-logo.svg" alt="Workshop unit testing con Angular" width="300" />
 </p>
 
 Jasmine es un framework javascript que contiene un conjunto de herramientas dedicadas que nos permite definir pruebas implementando un lenguaje natural entendible por los programadores.

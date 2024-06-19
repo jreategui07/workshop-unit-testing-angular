@@ -1,10 +1,12 @@
 # WORKSHOP
 
-<p float="left">
-    <img src="./angular-logo.png" alt="Workshop unit testing con Angular" width="110" />
-    <img src="./jarmine-logo.svg" alt="Workshop unit testing con Angular" width="300" />
-    <img src="./karma-logo.png" alt="Workshop unit testing con Angular" width="300" />
-</p>
+<table>
+  <tr>
+    <td><img src="./assets/logo/angular-logo.png" width="110" /></td>
+    <td><img src="./assets/logo/jasmine-logo.svg" width="300" /></td>
+    <td><img src="./assets/logo/karma-logo.png" width="300" /></td>
+  </tr>
+</table>
 
 ## Unit testing con Angular: Introducción y Primeros pasos
 
